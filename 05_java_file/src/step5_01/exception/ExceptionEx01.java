@@ -36,7 +36,7 @@ public class ExceptionEx01 {
 					System.out.println("모든 에러클래스의 조상");
 				}
 				
-			
+	}
 				
-			}
+}
 		
